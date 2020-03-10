@@ -1,0 +1,2050 @@
+[
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Vishakhapatnam",
+    "cityName": "Vishakhapatnam",
+    "latitude": 17.722166666666666,
+    "longitude": 83.22277777777778,
+    "airportCode": "VOVZ",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.22277777777778,
+        17.722166666666666
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Thiruvananthapuram",
+    "cityName": "Thiruvananthapuram",
+    "latitude": 8.479444444444445,
+    "longitude": 76.92,
+    "airportCode": "VOTV",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.92,
+        8.479444444444445
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Tirupati",
+    "cityName": "Tirupati",
+    "latitude": 13.633055555555556,
+    "longitude": 79.54194444444444,
+    "airportCode": "VOTP",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        79.54194444444444,
+        13.633055555555556
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Tuticorin",
+    "cityName": "Tuticorin",
+    "latitude": 8.722283333333333,
+    "longitude": 78.02616666666667,
+    "airportCode": "VOTK",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        78.02616666666667,
+        8.722283333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Yelahanka",
+    "cityName": "Yelahanka",
+    "latitude": 13.135519444444444,
+    "longitude": 77.60603055555555,
+    "airportCode": "VOYK",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.60603055555555,
+        13.135519444444444
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Sulur",
+    "cityName": "Sulur",
+    "latitude": 11.01351111111111,
+    "longitude": 77.15969722222223,
+    "airportCode": "VOSX",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.15969722222223,
+        11.01351111111111
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Mysore",
+    "cityName": "Mysore",
+    "latitude": 12.232452777777779,
+    "longitude": 76.6563388888889,
+    "airportCode": "VOMY",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.6563388888889,
+        12.232452777777779
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Chennai Intl",
+    "cityName": "Chennai",
+    "latitude": 12.995,
+    "longitude": 80.17555555555556,
+    "airportCode": "VOMM",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.17555555555556,
+        12.995
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Begumpet",
+    "cityName": "Hyderabad",
+    "latitude": 17.453055555555554,
+    "longitude": 78.45805555555556,
+    "airportCode": "VOHY",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        78.45805555555556,
+        17.453055555555554
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Hubli",
+    "cityName": "Hubli",
+    "latitude": 15.361944444444443,
+    "longitude": 75.08444444444444,
+    "airportCode": "VOHB",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.08444444444444,
+        15.361944444444443
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Car Nicobar",
+    "cityName": "Car Nicobar",
+    "latitude": 9.152508333333333,
+    "longitude": 92.81962777777777,
+    "airportCode": "VOCX",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        92.81962777777777,
+        9.152508333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Dabolim",
+    "cityName": "Goa",
+    "latitude": 15.380836111111112,
+    "longitude": 73.82706388888889,
+    "airportCode": "VOGO",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.82706388888889,
+        15.380836111111112
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Coimbatore",
+    "cityName": "Coimbatore",
+    "latitude": 11.026944444444446,
+    "longitude": 77.04166666666667,
+    "airportCode": "VOCB",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.04166666666667,
+        11.026944444444446
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Vijayawada",
+    "cityName": "Vijayawada",
+    "latitude": 16.533611111111114,
+    "longitude": 80.80333333333333,
+    "airportCode": "VOBZ",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.80333333333333,
+        16.533611111111114
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Kempegowda Intl",
+    "cityName": "Bengaluru",
+    "latitude": 13.19888888888889,
+    "longitude": 77.70555555555556,
+    "airportCode": "VOBL",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.70555555555556,
+        13.19888888888889
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Agatti",
+    "cityName": "Agatti",
+    "latitude": 10.824166666666667,
+    "longitude": 72.17666666666668,
+    "airportCode": "VOAT",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.17666666666668,
+        10.824166666666667
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Udhampur",
+    "cityName": "Udhampur",
+    "latitude": 32.90218888888889,
+    "longitude": 75.156225,
+    "airportCode": "VIUX",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.156225,
+        32.90218888888889
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Suratgarh",
+    "cityName": "Suratgarh",
+    "latitude": 29.387774999999998,
+    "longitude": 73.90392222222223,
+    "airportCode": "VISG",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.90392222222223,
+        29.387774999999998
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Sirsa",
+    "cityName": "Sirsa",
+    "latitude": 29.560580555555557,
+    "longitude": 75.006075,
+    "airportCode": "VISA",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.006075,
+        29.560580555555557
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Pantnagar",
+    "cityName": "Pantnagar",
+    "latitude": 29.03222222222222,
+    "longitude": 79.4725,
+    "airportCode": "VIPT",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        79.4725,
+        29.03222222222222
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Hakimpet",
+    "cityName": "Hakimpet",
+    "latitude": 17.553491666666666,
+    "longitude": 78.5249,
+    "airportCode": "VOHK",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        78.5249,
+        17.553491666666666
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Pathankot",
+    "cityName": "Pathankot",
+    "latitude": 32.23377777777778,
+    "longitude": 75.63462777777778,
+    "airportCode": "VIPK",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.63462777777778,
+        32.23377777777778
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Mangalore",
+    "cityName": "Mangalore",
+    "latitude": 12.961944444444443,
+    "longitude": 74.88972222222223,
+    "airportCode": "VOML",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.88972222222223,
+        12.961944444444443
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Kota",
+    "cityName": "Kota",
+    "latitude": 25.160083333333333,
+    "longitude": 75.84783333333333,
+    "airportCode": "VIKO",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.84783333333333,
+        25.160083333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Leh",
+    "cityName": "Leh",
+    "latitude": 34.13666666666666,
+    "longitude": 77.54666666666667,
+    "airportCode": "VILH",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.54666666666667,
+        34.13666666666666
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Kargil",
+    "cityName": "Kargil",
+    "latitude": 34.52427222222222,
+    "longitude": 76.15590833333334,
+    "airportCode": "VIKL",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.15590833333334,
+        34.52427222222222
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Nanded",
+    "cityName": "Nanded",
+    "latitude": 19.181036111111112,
+    "longitude": 77.32254722222221,
+    "airportCode": "VOND",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.32254722222221,
+        19.181036111111112
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Jammu",
+    "cityName": "Jammu",
+    "latitude": 32.69333333333333,
+    "longitude": 74.83999999999999,
+    "airportCode": "VIJU",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.83999999999999,
+        32.69333333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Jaisalmer",
+    "cityName": "Jaisalmer",
+    "latitude": 26.89,
+    "longitude": 70.86666666666666,
+    "airportCode": "VIJR",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        70.86666666666666,
+        26.89
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Gaya",
+    "cityName": "Gaya",
+    "latitude": 24.748055555555556,
+    "longitude": 84.94250000000001,
+    "airportCode": "VEGY",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.94250000000001,
+        24.748055555555556
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Jaipur",
+    "cityName": "Jaipur",
+    "latitude": 26.824166666666667,
+    "longitude": 75.8025,
+    "airportCode": "VIJP",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.8025,
+        26.824166666666667
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Halwara",
+    "cityName": "Halwara",
+    "latitude": 30.748533333333334,
+    "longitude": 75.6297861111111,
+    "airportCode": "VIHX",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.6297861111111,
+        30.748533333333334
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Tiruchirappalli",
+    "cityName": "Tiruchirappalli",
+    "latitude": 10.765555555555556,
+    "longitude": 78.715,
+    "airportCode": "VOTR",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        78.715,
+        10.765555555555556
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Kangra",
+    "cityName": "Kangra",
+    "latitude": 32.165277777777774,
+    "longitude": 76.26194444444444,
+    "airportCode": "VIGG",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.26194444444444,
+        32.165277777777774
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Dehradun",
+    "cityName": "Dehradun",
+    "latitude": 30.190555555555555,
+    "longitude": 78.18222222222222,
+    "airportCode": "VIDN",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        78.18222222222222,
+        30.190555555555555
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Barapani",
+    "cityName": "Barapani",
+    "latitude": 25.703333333333333,
+    "longitude": 91.97805555555556,
+    "airportCode": "VEBI",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        91.97805555555556,
+        25.703333333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Maharajpur",
+    "cityName": "Gwalior",
+    "latitude": 26.291666666666668,
+    "longitude": 78.22833333333334,
+    "airportCode": "VIGR",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        78.22833333333334,
+        26.291666666666668
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Hindan",
+    "cityName": "Hindan",
+    "latitude": 28.707702777777776,
+    "longitude": 77.35891111111111,
+    "airportCode": "VIDX",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.35891111111111,
+        28.707702777777776
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Chakeri",
+    "cityName": "Kanpur",
+    "latitude": 26.4043,
+    "longitude": 80.41011944444445,
+    "airportCode": "VICX",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.41011944444445,
+        26.4043
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Bakshi Ka Talab",
+    "cityName": "Bakshi Ka Talab",
+    "latitude": 26.98833888888889,
+    "longitude": 80.89311666666667,
+    "airportCode": "VIBL",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.89311666666667,
+        26.98833888888889
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Nal",
+    "cityName": "Bikaner",
+    "latitude": 28.070605555555556,
+    "longitude": 73.20716111111112,
+    "airportCode": "VIBK",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.20716111111112,
+        28.070605555555556
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Thanjavur",
+    "cityName": "Thanjavur",
+    "latitude": 10.722427777777778,
+    "longitude": 79.10156666666666,
+    "airportCode": "VOTJ",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        79.10156666666666,
+        10.722427777777778
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Adampur",
+    "cityName": "Adampur",
+    "latitude": 31.433758333333333,
+    "longitude": 75.758825,
+    "airportCode": "VIAX",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.758825,
+        31.433758333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Sri Guru Ram Dass Jee Intl",
+    "cityName": "Amritsar",
+    "latitude": 31.704722222222223,
+    "longitude": 74.80194444444444,
+    "airportCode": "VIAR",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.80194444444444,
+        31.704722222222223
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Tezpur",
+    "cityName": "Tezpur",
+    "latitude": 26.709138888888887,
+    "longitude": 92.78473888888888,
+    "airportCode": "VETZ",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        92.78473888888888,
+        26.709138888888887
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Chaudhary Charan Singh",
+    "cityName": "Lucknow",
+    "latitude": 26.761944444444445,
+    "longitude": 80.88333333333334,
+    "airportCode": "VILK",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.88333333333334,
+        26.761944444444445
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Patna",
+    "cityName": "Patna",
+    "latitude": 25.59361111111111,
+    "longitude": 85.09194444444444,
+    "airportCode": "VEPT",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.09194444444444,
+        25.59361111111111
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Swami Vivekananda",
+    "cityName": "Raipur",
+    "latitude": 21.18111111111111,
+    "longitude": 81.73861111111111,
+    "airportCode": "VERP",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.73861111111111,
+        21.18111111111111
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Awantipur",
+    "cityName": "Awantipur",
+    "latitude": 33.87662777777778,
+    "longitude": 74.97568055555556,
+    "airportCode": "VIAW",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.97568055555556,
+        33.87662777777778
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Lal Bahadur Shastri",
+    "cityName": "Varanasi",
+    "latitude": 25.45138888888889,
+    "longitude": 82.8586111111111,
+    "airportCode": "VEBN",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.8586111111111,
+        25.45138888888889
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Bathinda",
+    "cityName": "Bathinda",
+    "latitude": 30.26972222222222,
+    "longitude": 74.75666666666666,
+    "airportCode": "VIBT",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.75666666666666,
+        30.26972222222222
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Hosur",
+    "cityName": "Hosur",
+    "latitude": 12.662416666666667,
+    "longitude": 77.76283333333333,
+    "airportCode": "VO95",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.76283333333333,
+        12.662416666666667
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Birsa Munda",
+    "cityName": "Ranchi",
+    "latitude": 23.31416666666667,
+    "longitude": 85.32111111111111,
+    "airportCode": "VERC",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.32111111111111,
+        23.31416666666667
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Purnea",
+    "cityName": "Purnea",
+    "latitude": 25.759594444444446,
+    "longitude": 87.41001111111112,
+    "airportCode": "VEPU",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        87.41001111111112,
+        25.759594444444446
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Rajiv Gandhi Intl",
+    "cityName": "Hyderabad",
+    "latitude": 17.240555555555556,
+    "longitude": 78.42888888888889,
+    "airportCode": "VOHS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        78.42888888888889,
+        17.240555555555556
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Jodhpur",
+    "cityName": "Jodhpur",
+    "latitude": 26.256666666666668,
+    "longitude": 73.05166666666666,
+    "airportCode": "VIJO",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.05166666666666,
+        26.256666666666668
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Cochin Intl",
+    "cityName": "Cochin",
+    "latitude": 10.15388888888889,
+    "longitude": 76.40694444444445,
+    "airportCode": "VOCI",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.40694444444445,
+        10.15388888888889
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Srinagar",
+    "cityName": "Srinagar",
+    "latitude": 33.98833333333334,
+    "longitude": 74.775,
+    "airportCode": "VISR",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.775,
+        33.98833333333334
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Agra",
+    "cityName": "Agra",
+    "latitude": 27.15833333333333,
+    "longitude": 77.96166666666667,
+    "airportCode": "VIAG",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.96166666666667,
+        27.15833333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Jamnagar",
+    "cityName": "Jamnagar",
+    "latitude": 22.466666666666665,
+    "longitude": 70.01666666666667,
+    "airportCode": "VAJM",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        70.01666666666667,
+        22.466666666666665
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Panagarh",
+    "cityName": "Panagarh",
+    "latitude": 23.47433611111111,
+    "longitude": 87.42750833333334,
+    "airportCode": "VEPH",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        87.42750833333334,
+        23.47433611111111
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Sri Sathya Sai",
+    "cityName": "Sri Sathya Sai",
+    "latitude": 14.148055555555555,
+    "longitude": 77.79055555555556,
+    "airportCode": "VOPN",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.79055555555556,
+        14.148055555555555
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Lengpui",
+    "cityName": "Lengpui",
+    "latitude": 23.838055555555556,
+    "longitude": 92.62666666666667,
+    "airportCode": "VELP",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        92.62666666666667,
+        23.838055555555556
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Guwahati",
+    "cityName": "Guwahati",
+    "latitude": 26.105,
+    "longitude": 91.58555555555554,
+    "airportCode": "VEGT",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        91.58555555555554,
+        26.105
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Dibrugarh",
+    "cityName": "Dibrugarh",
+    "latitude": 27.481111111111108,
+    "longitude": 95.01805555555555,
+    "airportCode": "VEMN",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        95.01805555555555,
+        27.481111111111108
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Kumbhirgram",
+    "cityName": "Silchar",
+    "latitude": 24.91333333333333,
+    "longitude": 92.98,
+    "airportCode": "VEKU",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        92.98,
+        24.91333333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Khajuraho",
+    "cityName": "Khajuraho",
+    "latitude": 24.82,
+    "longitude": 79.91833333333334,
+    "airportCode": "VEKO",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        79.91833333333334,
+        24.82
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Kullu Manali",
+    "cityName": "Kullu Manali",
+    "latitude": 31.876944444444444,
+    "longitude": 77.15527777777778,
+    "airportCode": "VIBR",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.15527777777778,
+        31.876944444444444
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Jorhat",
+    "cityName": "Jorhat",
+    "latitude": 26.733333333333334,
+    "longitude": 94.18333333333334,
+    "airportCode": "VEJT",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        94.18333333333334,
+        26.733333333333334
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Indira Gandhi Intl",
+    "cityName": "Delhi",
+    "latitude": 28.56861111111111,
+    "longitude": 77.11222222222221,
+    "airportCode": "VIDP",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.11222222222221,
+        28.56861111111111
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Jamshedpur",
+    "cityName": "Jamshedpur",
+    "latitude": 22.81455,
+    "longitude": 86.16901111111112,
+    "airportCode": "VEJS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        86.16901111111112,
+        22.81455
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Dundigal",
+    "cityName": "Hyderabad",
+    "latitude": 17.627177777777778,
+    "longitude": 78.40336111111111,
+    "airportCode": "VODG",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        78.40336111111111,
+        17.627177777777778
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Gondia",
+    "cityName": "Gondia",
+    "latitude": 21.523555555555554,
+    "longitude": 80.28769444444444,
+    "airportCode": "VAGD",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.28769444444444,
+        21.523555555555554
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Devi Ahilyabai Holkar",
+    "cityName": "Indore",
+    "latitude": 22.723333333333333,
+    "longitude": 75.80555555555556,
+    "airportCode": "VAID",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.80555555555556,
+        22.723333333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Kalaikunda",
+    "cityName": "Kalaikunda",
+    "latitude": 22.33950833333333,
+    "longitude": 87.21449722222222,
+    "airportCode": "VEDX",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        87.21449722222222,
+        22.33950833333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Aurangabad",
+    "cityName": "Aurangabad",
+    "latitude": 19.864444444444445,
+    "longitude": 75.39750000000001,
+    "airportCode": "VAAU",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.39750000000001,
+        19.864444444444445
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Agartala",
+    "cityName": "Agartala",
+    "latitude": 23.890555555555554,
+    "longitude": 91.23916666666666,
+    "airportCode": "VEAT",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        91.23916666666666,
+        23.890555555555554
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Ahmedabad",
+    "cityName": "Ahmedabad",
+    "latitude": 23.07111111111111,
+    "longitude": 72.62638888888888,
+    "airportCode": "VAAH",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.62638888888888,
+        23.07111111111111
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Netaji Subhash Chandra Bose Intl",
+    "cityName": "Kolkata",
+    "latitude": 22.653888888888886,
+    "longitude": 88.44666666666667,
+    "airportCode": "VECC",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        88.44666666666667,
+        22.653888888888886
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Tambaram",
+    "cityName": "Tambaram",
+    "latitude": 12.90721388888889,
+    "longitude": 80.1218611111111,
+    "airportCode": "VOTX",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.1218611111111,
+        12.90721388888889
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Imphal",
+    "cityName": "Imphal",
+    "latitude": 24.764166666666668,
+    "longitude": 93.89944444444446,
+    "airportCode": "VEIM",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        93.89944444444446,
+        24.764166666666668
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Kandla",
+    "cityName": "Kandla",
+    "latitude": 23.111666666666668,
+    "longitude": 70.10138888888888,
+    "airportCode": "VAKE",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        70.10138888888888,
+        23.111666666666668
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Safdarjung",
+    "cityName": "Delhi",
+    "latitude": 28.583333333333332,
+    "longitude": 77.20805555555556,
+    "airportCode": "VIDD",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.20805555555556,
+        28.583333333333332
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Hal",
+    "cityName": "Bengaluru",
+    "latitude": 12.952222222222222,
+    "longitude": 77.66472222222222,
+    "airportCode": "VOBG",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.66472222222222,
+        12.952222222222222
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Chabua",
+    "cityName": "Chabua",
+    "latitude": 27.462230555555553,
+    "longitude": 95.11765,
+    "airportCode": "VECA",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        95.11765,
+        27.462230555555553
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Bihta",
+    "cityName": "Bihta",
+    "latitude": 25.58888888888889,
+    "longitude": 84.88472222222222,
+    "airportCode": "VEBT",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.88472222222222,
+        25.58888888888889
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Hashimara",
+    "cityName": "Hashimara",
+    "latitude": 26.698283333333332,
+    "longitude": 89.36907777777778,
+    "airportCode": "VEHX",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        89.36907777777778,
+        26.698283333333332
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Dimapur",
+    "cityName": "Dimapur",
+    "latitude": 25.883333333333333,
+    "longitude": 93.77111111111111,
+    "airportCode": "VEMR",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        93.77111111111111,
+        25.883333333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Uttarlai",
+    "cityName": "Uttarlai",
+    "latitude": 25.812994444444445,
+    "longitude": 71.48228611111111,
+    "airportCode": "VIUT",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        71.48228611111111,
+        25.812994444444445
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Udaipur",
+    "cityName": "Udaipur",
+    "latitude": 24.6175,
+    "longitude": 73.89444444444445,
+    "airportCode": "VAUD",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.89444444444445,
+        24.6175
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Baghdogra",
+    "cityName": "Baghdogra",
+    "latitude": 26.683333333333334,
+    "longitude": 88.33333333333333,
+    "airportCode": "VEBD",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        88.33333333333333,
+        26.683333333333334
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Bamhrauli",
+    "cityName": "Allahabad",
+    "latitude": 25.44,
+    "longitude": 81.735,
+    "airportCode": "VEAB",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.735,
+        25.44
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Calicut",
+    "cityName": "Calicut",
+    "latitude": 11.137777777777778,
+    "longitude": 75.95055555555555,
+    "airportCode": "VOCL",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.95055555555555,
+        11.137777777777778
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Darbhanga",
+    "cityName": "Darbhanga",
+    "latitude": 26.19278611111111,
+    "longitude": 85.91688611111111,
+    "airportCode": "VEDH",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.91688611111111,
+        26.19278611111111
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Surat",
+    "cityName": "Surat",
+    "latitude": 21.116111111111113,
+    "longitude": 72.74194444444444,
+    "airportCode": "VASU",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.74194444444444,
+        21.116111111111113
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Ozar",
+    "cityName": "Ozar",
+    "latitude": 20.12,
+    "longitude": 73.91333333333334,
+    "airportCode": "VAOZ",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.91333333333334,
+        20.12
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Belgaum",
+    "cityName": "Belgaum",
+    "latitude": 15.858333333333333,
+    "longitude": 74.61777777777777,
+    "airportCode": "VOBM",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.61777777777777,
+        15.858333333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Bhuj",
+    "cityName": "Bhuj",
+    "latitude": 23.28666666666667,
+    "longitude": 69.67,
+    "airportCode": "VABJ",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        69.67,
+        23.28666666666667
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Bareilly",
+    "cityName": "Bareilly",
+    "latitude": 28.422061111111113,
+    "longitude": 79.45084166666668,
+    "airportCode": "VIBY",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        79.45084166666668,
+        28.422061111111113
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Rajahmundry",
+    "cityName": "Rajahmundry",
+    "latitude": 17.109444444444446,
+    "longitude": 81.81944444444444,
+    "airportCode": "VORY",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.81944444444444,
+        17.109444444444446
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Akola",
+    "cityName": "Akola",
+    "latitude": 20.698555555555554,
+    "longitude": 77.05769444444444,
+    "airportCode": "VAAK",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.05769444444444,
+        20.698555555555554
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Keshod",
+    "cityName": "Keshod",
+    "latitude": 21.315,
+    "longitude": 70.26916666666666,
+    "airportCode": "VAKS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        70.26916666666666,
+        21.315
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Ambala",
+    "cityName": "Ambala",
+    "latitude": 30.368147222222223,
+    "longitude": 76.81666388888888,
+    "airportCode": "VIAM",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.81666388888888,
+        30.368147222222223
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Porbandar",
+    "cityName": "Porbandar",
+    "latitude": 21.650277777777777,
+    "longitude": 69.65861111111111,
+    "airportCode": "VAPR",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        69.65861111111111,
+        21.650277777777777
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Raja Bhoj",
+    "cityName": "Bhopal",
+    "latitude": 23.286944444444448,
+    "longitude": 77.33694444444444,
+    "airportCode": "VABP",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.33694444444444,
+        23.286944444444448
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Rajkot",
+    "cityName": "Rajkot",
+    "latitude": 22.309444444444445,
+    "longitude": 70.77944444444444,
+    "airportCode": "VARK",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        70.77944444444444,
+        22.309444444444445
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Vadodara",
+    "cityName": "Vadodara",
+    "latitude": 22.33,
+    "longitude": 73.21888888888888,
+    "airportCode": "VABO",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.21888888888888,
+        22.33
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Jalgaon",
+    "cityName": "Jalgaon",
+    "latitude": 20.961594444444444,
+    "longitude": 75.62456388888889,
+    "airportCode": "VAJL",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.62456388888889,
+        20.961594444444444
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Chhatrapati Shivaji Intl",
+    "cityName": "Mumbai",
+    "latitude": 19.091666666666665,
+    "longitude": 72.86611111111111,
+    "airportCode": "VABB",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.86611111111111,
+        19.091666666666665
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Sarsawa",
+    "cityName": "Saharanpur",
+    "latitude": 29.993919444444444,
+    "longitude": 77.42531111111111,
+    "airportCode": "VISP",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.42531111111111,
+        29.993919444444444
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Bhavnagar",
+    "cityName": "Bhavnagar",
+    "latitude": 21.754166666666666,
+    "longitude": 72.19055555555556,
+    "airportCode": "VABV",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.19055555555556,
+        21.754166666666666
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Thoise",
+    "cityName": "Thoise",
+    "latitude": 34.65262222222222,
+    "longitude": 77.37575277777778,
+    "airportCode": "VITE",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.37575277777778,
+        34.65262222222222
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Dr. Ambedkar Intl",
+    "cityName": "Nagpur",
+    "latitude": 21.091944444444444,
+    "longitude": 79.04833333333333,
+    "airportCode": "VANP",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        79.04833333333333,
+        21.091944444444444
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Gorakhpur",
+    "cityName": "Gorakhpur",
+    "latitude": 26.741666666666667,
+    "longitude": 83.45166666666667,
+    "airportCode": "VEGK",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.45166666666667,
+        26.741666666666667
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Port Blair",
+    "cityName": "Port Blair",
+    "latitude": 11.641166666666667,
+    "longitude": 92.72966666666667,
+    "airportCode": "VOPB",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        92.72966666666667,
+        11.641166666666667
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Kolhapur",
+    "cityName": "Kolhapur",
+    "latitude": 16.665277777777778,
+    "longitude": 74.29138888888889,
+    "airportCode": "VAKP",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        74.29138888888889,
+        16.665277777777778
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Naliya",
+    "cityName": "Naliya",
+    "latitude": 23.215883333333334,
+    "longitude": 68.89105,
+    "airportCode": "VANY",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        68.89105,
+        23.215883333333334
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Madurai",
+    "cityName": "Madurai",
+    "latitude": 9.835277777777778,
+    "longitude": 78.08833333333332,
+    "airportCode": "VOMD",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        78.08833333333332,
+        9.835277777777778
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Pune",
+    "cityName": "Pune",
+    "latitude": 18.583333333333332,
+    "longitude": 73.92,
+    "airportCode": "VAPO",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.92,
+        18.583333333333332
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Lilabari",
+    "cityName": "Lilabari",
+    "latitude": 27.291111111111114,
+    "longitude": 94.09341666666666,
+    "airportCode": "VELR",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        94.09341666666666,
+        27.291111111111114
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Ludhiana",
+    "cityName": "Ludhiana",
+    "latitude": 30.852583333333335,
+    "longitude": 75.95666666666666,
+    "airportCode": "VILD",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        75.95666666666666,
+        30.852583333333335
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Durgapur",
+    "cityName": "Durgapur",
+    "latitude": 23.624444444444446,
+    "longitude": 87.2425,
+    "airportCode": "VEDG",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        87.2425,
+        23.624444444444446
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Chandigarh",
+    "cityName": "Chandigarh",
+    "latitude": 30.673333333333336,
+    "longitude": 76.78999999999999,
+    "airportCode": "VICG",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.78999999999999,
+        30.673333333333336
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Diu",
+    "cityName": "Diu",
+    "latitude": 20.71333333333333,
+    "longitude": 70.92361111111111,
+    "airportCode": "VADU",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        70.92361111111111,
+        20.71333333333333
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Bhubaneshwar",
+    "cityName": "Bhubaneshwar",
+    "latitude": 20.246666666666666,
+    "longitude": 85.81861111111111,
+    "airportCode": "VEBS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.81861111111111,
+        20.246666666666666
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Bidar",
+    "cityName": "Bidar",
+    "latitude": 17.908080555555554,
+    "longitude": 77.48714166666667,
+    "airportCode": "VOBR",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.48714166666667,
+        17.908080555555554
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Jabalpur",
+    "cityName": "Jabalpur",
+    "latitude": 23.183333333333334,
+    "longitude": 80.06055555555555,
+    "airportCode": "VAJB",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        80.06055555555555,
+        23.183333333333334
+      ]
+    }
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IND",
+    "airportName": "Along",
+    "cityName": "Along",
+    "latitude": 28.1675,
+    "longitude": 94.80555555555556,
+    "airportCode": "VEAN",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        94.80555555555556,
+        28.1675
+      ]
+    }
+  }
+]
